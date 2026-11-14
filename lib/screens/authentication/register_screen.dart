@@ -48,7 +48,7 @@ class _RegisterScreenState extends State<RegisterScreen> {
                 ),
                 const SizedBox(height: 10),
                 Text(
-                  "Join CUT FM and stay connected to the lastest news, stories and campus updates",
+                  "Join the FM and stay connected to the latest news, stories and campus updates",
                   textAlign: TextAlign.center,
                   style: TextStyle(fontWeight: FontWeight.normal, fontSize: 20),
                 ),
