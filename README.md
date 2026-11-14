@@ -1,16 +1,54 @@
-# fm_project
+<h1 align="center"> Radio News App</h1>
 
-A new Flutter project.
+<p align="center">
+  A collaborative Flutter news reader application built for campus radio listeners to register, browse categorized stories, and read full articles.
+</p>
+
+---
+
+## Features
+
+* **User Authentication.** Complete Login and Registration screens with student number and password validation.
+* **Categorized News Feed.** Browse stories sorted by topics like Tech, Beauty & Fashion, and Sports.
+* **Article Reader.** Tap any headline card to view the full story and author details.
+
+---
+
+## Screenshots
+
+| Login | Register | News Feed | Article View |
+| :---: | :---: | :---: | :---: |
+| <img width="1920" height="1080" alt="Screenshot (180)" src="https://github.com/user-attachments/assets/21ef7c2c-9f53-4f22-baa9-9f5e49f65bc1" /> | <img width="1920" height="1080" alt="Screenshot (184)" src="https://github.com/user-attachments/assets/f142087d-b7aa-4dad-8453-80176997e7eb" /> | <img width="1920" height="1080" alt="Screenshot (181)" src="https://github.com/user-attachments/assets/0f24b625-16d5-4c31-a797-d9e5609302c7" /> | <img width="1920" height="1080" alt="Screenshot (182)" src="https://github.com/user-attachments/assets/735ae4e1-4cb8-4a33-b22f-3e3349e7f05d" /> |
+
+---
+
+
+## Tech Stack
+
+* **Framework:** Flutter
+* **Language:** Dart
+
+---
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/koketsomatsane/fm-app.git
+   ```
 
-A few resources to get you started if this is your first Flutter project:
+2. **Navigate to the project folder**
+   ```bash
+   cd fm-app
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+   ```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+3. **Install dependencies**
+   ```bash
+   flutter pub get
+   ```
+
+4. **Run the app**
+   ```bash
+   flutter run
+   ```
